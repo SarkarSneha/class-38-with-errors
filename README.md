@@ -1,1 +1,2 @@
-# class-38-with-errors
+# synchronousBallMovement
+Ball moving synchronously
